@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo modprobe -r psmouse
-sudo modprobe psmouse
+sudo  modprobe -r psmouse
+sudo  modprobe psmouse
